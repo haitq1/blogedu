@@ -4,7 +4,7 @@ import "./sidebar.css";
 export default () => {
   return (
     <aside>
-      <div>This is Sidebar</div>
+      {/* <div>This is Sidebar</div> */}
     </aside>
   )
 }
